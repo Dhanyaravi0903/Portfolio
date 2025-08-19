@@ -25,3 +25,7 @@ portfolio/
 │── style.css # CSS styling
 │── images/ # Project and portfolio images
 │── README.md # Documentation
+
+
+🌐 The application is deployed on Netlify and can be accessed here: [dhanyar.netlify.app](https://dhanyar.netlify.app/)
+
